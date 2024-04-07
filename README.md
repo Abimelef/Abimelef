@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abimelef
 - 👀 I’m interested in old computers particularly the ZX81, Dragon32 and Sinclair QL plus more general aspects of computing.
-- 🌱 I am currently playing with/learning Z80 abd 6809 assembler, C# and Python.
+- 🌱 I am currently playing with/learning Z80 and 6809 assembler, C# and Python.
 
 
 <!---
